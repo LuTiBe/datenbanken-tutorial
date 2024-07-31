@@ -1,1 +1,1 @@
-# datenbanken-tutorial
+# sqlite-tutorial
